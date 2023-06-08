@@ -1,0 +1,17 @@
+{
+    "image1": {
+        "data": "hwQPAA8AAAAAAJmZmQkAAACZmZmZmQkAkJmZmZmZmQCQmZmZmZmZAJmZmZmZmZkJmZmZmZmZmQmZmZmZmZmZCZmZmZmZmZkJmZmZmZmZmQmZmZmZmZmZCZmZmZmZmZkJkJmZmZmZmQCQmZmZmZmZAACZmZmZmQkAAACZmZkJAAA=",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "Ball"
+    },
+    "image2": {
+        "data": "hwQFABAAAABVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVV",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "Paddle"
+    },
+    "*": {
+        "mimeType": "image/x-mkcd-f4",
+        "dataEncoding": "base64",
+        "namespace": "myImages"
+    }
+}
